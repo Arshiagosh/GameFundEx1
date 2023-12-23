@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1636756156111784197}
   m_Layer: 0
   m_Name: Tunel
-  m_TagString: Untagged
+  m_TagString: tunel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -46,8 +46,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 2.055107, z: 1.5474415}
-  m_Center: {x: 0, y: 0.52755356, z: -0.27372074}
+  m_Size: {x: 3.6278458, y: 2.159935, z: 1.3091135}
+  m_Center: {x: -1.3139229, y: -0.69236755, z: 0.1533494}
 --- !u!1 &5882931537636085554
 GameObject:
   m_ObjectHideFlags: 0
